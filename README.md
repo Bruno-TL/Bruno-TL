@@ -1,4 +1,4 @@
-### Oii! Me chamo Bruno, e seja bem vindo 👋
+### Bem vindo ao meu github dev👋
 
 <div align="center">
   <a href="https://github.com/Bruno-TL">
@@ -28,6 +28,3 @@
  </div>
  
   ##
-
-- 🔭 Hoje estou na busca de uma vaga para Dev Fron-end
-- 🌱 Estudando React com Typescript 
